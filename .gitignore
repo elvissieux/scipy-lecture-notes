@@ -8,3 +8,4 @@ PythonScientific-simple.pdf
 PythonScientific.pdf
 */auto_examples
 advanced/image_processing/examples/lena.png
+/advanced/interfacing_with_c/cython_numpy/_cos_doubles.c
